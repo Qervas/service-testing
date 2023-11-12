@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 import librosa
 import numpy as np
-import json
 
 app = Flask(__name__)
 
